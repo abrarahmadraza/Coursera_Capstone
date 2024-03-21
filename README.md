@@ -1,6 +1,6 @@
 # Neighborhood Battle: Exploring San Francisco's Neighborhoods
 
-![San Francisco Skyline]([https://as1.ftcdn.net/v2/jpg/02/55/49/74/1000_F_255497442_LJLHtyDf0mqNBItaC7pI8esKsIOy46DG.jpg](https://t3.ftcdn.net/jpg/02/30/25/62/240_F_230256262_6ByrARdtTZZtFVxUYPOngnIhu1XtmwBi.jpg))
+![San Francisco Skyline](https://t3.ftcdn.net/jpg/02/30/25/62/240_F_230256262_6ByrARdtTZZtFVxUYPOngnIhu1XtmwBi.jpg))
 
 ## Overview
 
