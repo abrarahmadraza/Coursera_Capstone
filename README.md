@@ -4,7 +4,7 @@ Certainly! Below is a comprehensive and aesthetically pleasing Markdown README f
 
 # Neighborhood Battle: Exploring Chennai's Neighborhoods
 
-![Chennai Skyline](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chennai_Skyline.jpg/1280px-Chennai_Skyline.jpg)
+![Chennai Skyline]([https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chennai_Skyline.jpg/1280px-Chennai_Skyline.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fchennai-skyline&psig=AOvVaw2sxUSIChuQH4RFt_K1tlN9&ust=1711078461074000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCID5jpG2hIUDFQAAAAAdAAAAABAJ))
 
 ## Overview
 
